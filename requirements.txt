@@ -1,0 +1,8 @@
+pandas
+streamlit
+numpy
+scikit-learn
+FlagEmbedding
+openai
+boto3
+Pillow
